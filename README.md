@@ -3,7 +3,7 @@ stands for :
 Git
 Watcher
 Rust
-Bunary
+Binary
 
 the Linux/Unix binary version of this repo : https://github.com/BeesyOnGit/gitwatcher_rust.
 
